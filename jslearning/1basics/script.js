@@ -97,5 +97,4 @@ console.log(every);
 const total = numberss.reduce((sum, number) => {
     return sum + number;
 }, 0);
-
 console.log(total);
